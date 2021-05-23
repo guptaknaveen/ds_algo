@@ -7,7 +7,7 @@ import java.util.LinkedList;
  */
 public class BSTIterator {
 
-    public class TreeNode {
+    private class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;
