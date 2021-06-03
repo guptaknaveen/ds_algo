@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00400_00500.addString;
 
 /**
- * https://leetcode.com/problems/add-strings/
+ * /problems/add-strings/
  * 415. Add Strings
  */
 public class Solution {

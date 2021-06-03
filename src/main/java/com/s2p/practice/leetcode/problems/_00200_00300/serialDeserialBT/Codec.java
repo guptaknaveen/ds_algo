@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+ * /problems/serialize-and-deserialize-binary-tree/
  * 297. Serialize and Deserialize Binary Tree
  * leetcode solution
  */

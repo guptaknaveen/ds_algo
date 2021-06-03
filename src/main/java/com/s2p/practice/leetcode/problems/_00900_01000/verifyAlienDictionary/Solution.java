@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * https://leetcode.com/problems/verifying-an-alien-dictionary/
+ * /problems/verifying-an-alien-dictionary/
  * 953. Verifying an Alien Dictionary
  */
 public class Solution {

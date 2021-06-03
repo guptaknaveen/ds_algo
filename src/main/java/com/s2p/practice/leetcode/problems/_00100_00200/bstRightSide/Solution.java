@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00100_00200.bstRightSide;
 import java.util.*;
 
 /**
- *  199 : https://leetcode.com/problems/binary-tree-right-side-view/
+ *  199 : /problems/binary-tree-right-side-view/
  */
 public class Solution {
     public class TreeNode {

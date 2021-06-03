@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00000_00100.addBinary;
 
 /*
-    67 : https://leetcode.com/problems/add-binary/
+    67 : /problems/add-binary/
  */
 public class Solution {
     public String addBinary(String a, String b) {

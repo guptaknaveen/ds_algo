@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00500_00600.diameteBT;
 
 /**
- * https://leetcode.com/problems/diameter-of-binary-tree/
+ * /problems/diameter-of-binary-tree/
  * 543. Diameter of Binary Tree
  */
 public class Solution {

@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._01300_01400.sortMatrixDiagonally;
 import java.util.*;
 
 /**
- * 1329 : https://leetcode.com/problems/sort-the-matrix-diagonally/
+ * 1329 : /problems/sort-the-matrix-diagonally/
  */
 public class Solution {
     public int[][] diagonalSort(int[][] mat) {

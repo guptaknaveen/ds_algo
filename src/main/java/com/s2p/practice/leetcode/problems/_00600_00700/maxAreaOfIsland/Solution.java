@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-// 695 : https://leetcode.com/problems/max-area-of-island/submissions/
+// 695 : /problems/max-area-of-island/submissions/
 public class Solution {
 
     private static class Entry implements Comparable<Entry> {

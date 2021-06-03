@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00900_01000.verticalTreeTraversal;
 import java.util.*;
 
 /**
- * https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+ * /problems/vertical-order-traversal-of-a-binary-tree/
  * 987. Vertical Order Traversal of a Binary Tree
  */
 public class Solution {

@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00100_00200.bstIterator;
 import java.util.LinkedList;
 
 /**
- *  173 : https://leetcode.com/problems/binary-search-tree-iterator/
+ *  173 : /problems/binary-search-tree-iterator/
  */
 public class BSTIterator {
 

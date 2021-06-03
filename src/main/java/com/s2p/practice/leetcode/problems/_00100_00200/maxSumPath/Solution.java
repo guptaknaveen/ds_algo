@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00100_00200.maxSumPath;
 
 /**
- *  124 : https://leetcode.com/problems/binary-tree-maximum-path-sum/
+ *  124 : /problems/binary-tree-maximum-path-sum/
  */
 public class Solution {
     public class TreeNode {

@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00800_00900.allNodeKDistBT;
 import java.util.*;
 
 /**
- * https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+ * /problems/all-nodes-distance-k-in-binary-tree/
  * 863. All Nodes Distance K in Binary Tree
  */
 public class Solution {

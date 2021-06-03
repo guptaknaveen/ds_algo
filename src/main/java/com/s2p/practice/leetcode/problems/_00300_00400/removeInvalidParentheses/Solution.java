@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * https://leetcode.com/problems/remove-invalid-parentheses/
+ * /problems/remove-invalid-parentheses/
  * 301. Remove Invalid Parentheses
  * leetcode solution
  */

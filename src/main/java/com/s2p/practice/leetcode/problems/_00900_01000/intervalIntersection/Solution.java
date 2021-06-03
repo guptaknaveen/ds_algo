@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * https://leetcode.com/problems/interval-list-intersections/
+ * /problems/interval-list-intersections/
  * 986. Interval List Intersections
  */
 public class Solution {

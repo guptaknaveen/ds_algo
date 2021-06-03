@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * https://leetcode.com/problems/expression-add-operators/
+ * /problems/expression-add-operators/
  * 282. Expression Add Operators
  * leetcode solution
  */

@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 /**
- * https://leetcode.com/problems/task-scheduler/
+ * /problems/task-scheduler/
  * 621. Task Scheduler
  */
 public class Solution {

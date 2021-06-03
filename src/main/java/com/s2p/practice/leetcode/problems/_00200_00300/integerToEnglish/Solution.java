@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00200_00300.integerToEnglish;
 
 /**
- * https://leetcode.com/problems/integer-to-english-words/solution/
+ * /problems/integer-to-english-words/solution/
  * 273. Integer to English Words
  * leetcode solution
  */

@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00000_00100.mergeInterval;
 import java.util.*;
 
 /*
-    56 : https://leetcode.com/problems/merge-intervals/
+    56 : /problems/merge-intervals/
  */
 public class Solution {
     private class Interval {

@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00500_00600.randomPickWeight;
 import java.util.Random;
 
 /**
- * https://leetcode.com/problems/random-pick-with-weight/
+ * /problems/random-pick-with-weight/
  * 528. Random Pick with Weight
  */
 public class Solution {

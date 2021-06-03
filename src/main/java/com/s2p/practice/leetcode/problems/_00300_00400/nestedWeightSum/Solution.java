@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00300_00400.nestedWeightSum;
 import java.util.List;
 
 /**
- * https://leetcode.com/problems/nested-list-weight-sum/
+ * /problems/nested-list-weight-sum/
  * 339. Nested List Weight Sum
  */
 public class Solution {

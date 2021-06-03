@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.PriorityQueue;
 
 /**
- * https://leetcode.com/problems/kth-largest-element-in-an-array/
+ * /problems/kth-largest-element-in-an-array/
  * 215. Kth Largest Element in an Array
  */
 public class Solution {

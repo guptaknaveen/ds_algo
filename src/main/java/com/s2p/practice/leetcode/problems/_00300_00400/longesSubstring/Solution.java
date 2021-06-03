@@ -4,7 +4,7 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+ * /problems/longest-substring-with-at-most-k-distinct-characters/
  * 340. Longest Substring with At Most K Distinct Characters
  */
 public class Solution {

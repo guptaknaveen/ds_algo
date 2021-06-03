@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00600_00700.validPallindromeII;
 
 /**
- * https://leetcode.com/problems/valid-palindrome-ii/
+ * /problems/valid-palindrome-ii/
  * 680. Valid Palindrome II
  */
 public class Solution {

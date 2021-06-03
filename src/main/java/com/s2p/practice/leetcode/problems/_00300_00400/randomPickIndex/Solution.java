@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * https://leetcode.com/problems/random-pick-index/
+ * /problems/random-pick-index/
  * 398. Random Pick Index
  */
 public class Solution {

@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00200_00300.firstBadVersion;
 
 /**
- * https://leetcode.com/problems/first-bad-version/
+ * /problems/first-bad-version/
  * 278. First Bad Version
  */
 public class Solution {

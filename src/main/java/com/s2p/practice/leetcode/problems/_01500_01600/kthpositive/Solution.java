@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._01500_01600.kthpositive;
 
 /**
- * 1539 : https://leetcode.com/problems/kth-missing-positive-number/
+ * 1539 : /problems/kth-missing-positive-number/
  */
 public class Solution {
     public int findKthPositive(int[] arr, int k) {

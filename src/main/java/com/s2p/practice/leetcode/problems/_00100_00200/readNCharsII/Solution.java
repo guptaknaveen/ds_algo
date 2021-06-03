@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00100_00200.readNCharsII;
 
 /**
- * https://leetcode.com/problems/read-n-characters-given-read4/
+ * /problems/read-n-characters-given-read4/
  * 157. Read N Characters Given Read4
  */
 public class Solution {

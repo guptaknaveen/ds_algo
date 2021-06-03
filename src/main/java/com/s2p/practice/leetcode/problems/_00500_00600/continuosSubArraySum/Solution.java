@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * https://leetcode.com/problems/continuous-subarray-sum/
+ * /problems/continuous-subarray-sum/
  * 523. Continuous Subarray Sum
  */
 public class Solution {

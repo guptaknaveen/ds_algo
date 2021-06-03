@@ -5,7 +5,7 @@ import com.s2p.practice.algorithm.lsc.Solution;
 import java.util.*;
 
 /**
- * https://leetcode.com/problems/dot-product-of-two-sparse-vectors/
+ * /problems/dot-product-of-two-sparse-vectors/
  * 1570. Dot Product of Two Sparse Vectors
  */
 public class SparseVector {

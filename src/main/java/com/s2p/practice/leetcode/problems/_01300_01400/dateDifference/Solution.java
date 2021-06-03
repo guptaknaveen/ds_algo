@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.concurrent.TimeUnit;
 
 /**
- * 1360 : https://leetcode.com/problems/number-of-days-between-two-dates/
+ * 1360 : /problems/number-of-days-between-two-dates/
  */
 class Solution {
     public int daysBetweenDates(String date1, String date2) {

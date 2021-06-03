@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._01000_01100.robotBoundedCircle;
 import java.util.Objects;
 
 /**
- * 1041 : https://leetcode.com/problems/robot-bounded-in-circle/
+ * 1041 : /problems/robot-bounded-in-circle/
  */
 public class Solution {
 

@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * https://leetcode.com/problems/subarray-sum-equals-k/
+ * /problems/subarray-sum-equals-k/
  * 560. Subarray Sum Equals K
  */
 public class Solution {

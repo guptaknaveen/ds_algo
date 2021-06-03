@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00100_00200.wordBreak;
 import java.util.*;
 
 /**
- * 139 : https://leetcode.com/problems/word-break/
+ * 139 : /problems/word-break/
  */
 public class Solution {
 

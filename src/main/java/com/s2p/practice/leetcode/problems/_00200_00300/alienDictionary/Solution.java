@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00200_00300.alienDictionary;
 import java.util.*;
 
 /**
- * https://leetcode.com/problems/alien-dictionary/
+ * /problems/alien-dictionary/
  * 269. Alien Dictionary
  * Leet Code Solution
  */

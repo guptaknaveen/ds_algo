@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00700_00800.accountsMerge;
 import java.util.*;
 
 /**
- * https://leetcode.com/problems/accounts-merge/
+ * /problems/accounts-merge/
  * 721. Accounts Merge
  * Note : leetcode Solution
  */

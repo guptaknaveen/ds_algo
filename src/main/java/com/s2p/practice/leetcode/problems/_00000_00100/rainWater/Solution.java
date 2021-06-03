@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00000_00100.rainWater;
 
 /*
-    42 : https://leetcode.com/problems/trapping-rain-water/
+    42 : /problems/trapping-rain-water/
  */
 public class Solution {
     public int trap(int[] height) {

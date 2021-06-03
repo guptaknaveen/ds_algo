@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * https://leetcode.com/problems/palindrome-permutation/
+ * /problems/palindrome-permutation/
  * 266. Palindrome Permutation
  */
 public class Solution {

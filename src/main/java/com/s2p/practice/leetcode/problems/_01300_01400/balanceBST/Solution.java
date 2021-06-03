@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * https://leetcode.com/problems/balance-a-binary-search-tree/
+ * /problems/balance-a-binary-search-tree/
  * 1382. Balance a Binary Search Tree
  */
 public class Solution {

@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._01600_01700.lowestCommonAncestorIII;
 import java.util.*;
 
 /**
- * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/
+ * /problems/lowest-common-ancestor-of-a-binary-tree-iii/
  * 1650. Lowest Common Ancestor of a Binary Tree III
  */
 public class Solution {

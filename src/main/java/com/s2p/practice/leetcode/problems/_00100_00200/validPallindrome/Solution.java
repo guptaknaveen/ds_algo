@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00100_00200.validPallindrome;
 
 /**
- * 125 : https://leetcode.com/problems/valid-palindrome/
+ * 125 : /problems/valid-palindrome/
  */
 public class Solution {
 

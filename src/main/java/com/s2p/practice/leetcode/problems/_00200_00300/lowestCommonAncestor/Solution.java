@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00200_00300.lowestCommonAncestor;
 
 /**
- * https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+ * /problems/lowest-common-ancestor-of-a-binary-tree/
  * 236. Lowest Common Ancestor of a Binary Tree
  */
 public class Solution {

@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /*
-    823 : https://leetcode.com/problems/binary-trees-with-factors/
+    823 : /problems/binary-trees-with-factors/
  */
 public class Solution {
 

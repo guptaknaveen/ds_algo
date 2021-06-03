@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 859 : https://leetcode.com/problems/buddy-strings/
+ * 859 : /problems/buddy-strings/
  */
 public class Solution {
     public boolean buddyStrings(String a, String b) {

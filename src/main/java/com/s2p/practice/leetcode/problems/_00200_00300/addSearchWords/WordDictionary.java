@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * https://leetcode.com/problems/design-add-and-search-words-data-structure/
+ * /problems/design-add-and-search-words-data-structure/
  * 211. Design Add and Search Words Data Structure
  */
 public class WordDictionary {

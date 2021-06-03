@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 325 : https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+ * 325 : /problems/maximum-size-subarray-sum-equals-k/
  */
 public class Solution {
     public int maxSubArrayLen(int[] nums, int k) {

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * https://leetcode.com/problems/find-k-closest-elements/solution/
+ * /problems/find-k-closest-elements/solution/
  * 658. Find K Closest Elements
  */
 public class Solution {

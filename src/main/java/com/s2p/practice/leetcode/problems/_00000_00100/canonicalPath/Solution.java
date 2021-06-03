@@ -4,7 +4,7 @@ import java.util.Stack;
 import java.util.StringTokenizer;
 
 /**
- * 71 : https://leetcode.com/problems/simplify-path/
+ * 71 : /problems/simplify-path/
  */
 public class Solution {
     public String simplifyPath(String path) {

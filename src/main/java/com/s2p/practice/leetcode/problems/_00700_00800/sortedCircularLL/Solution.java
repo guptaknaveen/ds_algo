@@ -1,7 +1,7 @@
 package com.s2p.practice.leetcode.problems._00700_00800.sortedCircularLL;
 
 /**
- * https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/
+ * /problems/insert-into-a-sorted-circular-linked-list/
  * 708. Insert into a Sorted Circular Linked List
  */
 public class Solution {

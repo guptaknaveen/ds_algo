@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 416 : https://leetcode.com/problems/partition-equal-subset-sum/
+ * 416 : /problems/partition-equal-subset-sum/
  */
 public class Solution {
     public boolean canPartition(int[] nums) {

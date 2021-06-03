@@ -3,7 +3,7 @@ package com.s2p.practice.leetcode.problems._00700_00800.charCustomSort;
 import java.util.*;
 
 /**
- * 791 : https://leetcode.com/problems/custom-sort-string/
+ * 791 : /problems/custom-sort-string/
  */
 public class Solution {
     public String customSortString(String order, String str) {
